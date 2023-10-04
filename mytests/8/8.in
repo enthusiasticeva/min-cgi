@@ -1,0 +1,7 @@
+python3 ./webserv.py ./config.cfg &
+
+sleep 1
+
+curl 127.0.0.1:8070/cgibin/tester8.py
+
+kill %1

